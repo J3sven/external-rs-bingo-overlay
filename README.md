@@ -2,7 +2,8 @@
 
 A lightweight, always-on-top floating overlay box built with Python and Tkinter.
 
-It mimics the **Codeword Box** behavior from the [wise-old-man/wiseoldman-runelite-plugin](https://github.com/wise-old-man/wiseoldman-runelite-plugin)
+It mimics the **Codeword Box** behavior from the [wise-old-man/wiseoldman-runelite-plugin](https://github.com/wise-old-man/wiseoldman-runelite-plugin) allowing people that play on HDOS or the Official client to take valid bingo screenshots without the need to play on RuneLite for clan events.
+
 ![av7JQka](https://github.com/user-attachments/assets/915099b5-aa97-4ba1-b314-a1b7478331dc)
 
 ---
