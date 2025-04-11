@@ -30,7 +30,7 @@ def handle_signal(signal_num, frame):
 if len(sys.argv) > 1:
     message = sys.argv[1]
 else:
-    message = "Squirtle Squirt"
+    message = "No Codeword Provided"
 
 signal.signal(signal.SIGINT, handle_signal)
 
