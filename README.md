@@ -1,4 +1,4 @@
-# Bingo Box Overlay
+# RuneScape Bingo Codeword Box Overlay
 
 A lightweight, always-on-top floating overlay box built with Python and Tkinter.
 
