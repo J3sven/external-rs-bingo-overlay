@@ -30,7 +30,7 @@ def handle_signal(signal_num, frame):
 if len(sys.argv) > 1:
     message = sys.argv[1]
 else:
-    message = "No Codeword Provided"
+    message = "No Codeword Provided" # Edit this with your codeword if you intend on running the script as an executable
 
 signal.signal(signal.SIGINT, handle_signal)
 
