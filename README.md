@@ -38,16 +38,10 @@ sudo pacman -S tk
 ### 📦 Run directly from terminal
 
 ```bash
-python bingo_box.py "Custom Message"
+python bingo_box.py "Codeword"
 ```
 
 - The box will float on top with your message and the UTC time.
-
-### 💡 Example
-
-```bash
-python bingo_box.py "Bingo Timer Active"
-```
 
 ---
 
