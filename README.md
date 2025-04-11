@@ -2,8 +2,7 @@
 
 A lightweight, always-on-top floating overlay box built with Python and Tkinter.
 
-It mimics the **Codeword Box** behavior from the [wise-old-man/wiseoldman-runelite-plugin](https://github.com/wise-old-man/wiseoldman-runelite-plugin), making it perfect for stream overlays, timers, or bingo events where you want to show a persistent label with minimal visual clutter.
-
+It mimics the **Codeword Box** behavior from the [wise-old-man/wiseoldman-runelite-plugin](https://github.com/wise-old-man/wiseoldman-runelite-plugin)
 ![av7JQka](https://github.com/user-attachments/assets/915099b5-aa97-4ba1-b314-a1b7478331dc)
 
 ---
